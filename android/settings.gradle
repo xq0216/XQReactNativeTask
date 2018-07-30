@@ -1,0 +1,3 @@
+rootProject.name = 'XQReactNativeTask01'
+
+include ':app'
